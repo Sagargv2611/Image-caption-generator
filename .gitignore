@@ -1,0 +1,8 @@
+# Ignore model files, datasets, and system files
+*.h5
+*.p
+*.png
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.DS_Store
