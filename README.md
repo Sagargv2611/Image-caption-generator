@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Image Caption Generator
 
 A deep learning project that generates textual captions for images using the **Xception CNN** for feature extraction and **LSTM** for sequence generation.
